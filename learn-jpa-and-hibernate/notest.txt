@@ -1,0 +1,5 @@
+insert into entity (id, name, author) values (1, 'name', 'in28minutes');
+
+select * from entity;
+
+delete from entity where id = 1;
